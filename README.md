@@ -43,10 +43,3 @@ To set up the Cooking Recipe Sharing Platform locally, follow these steps:
 - Edit and update your submitted recipes.
 - Delete recipes you've shared.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
